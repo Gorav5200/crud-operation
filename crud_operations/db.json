@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "name": "gurvitd",
+      "username": "gurvit201",
+      "email": "gurvit@test.com",
+      "phone": "12344565",
+      "id": 2
+    },
+    {
+      "name": "wfh",
+      "username": "ie9ue9`",
+      "email": "iwii",
+      "phone": "iii",
+      "id": 3
+    },
+    {
+      "name": "My naw",
+      "email": "jeij@gmail",
+      "contact": "92929",
+      "address": "ooj",
+      "id": 4
+    },
+    {
+      "name": "kkkknk",
+      "email": "Gorav5200@gmail.com",
+      "contact": "56789",
+      "address": "cfghj",
+      "id": 5
+    },
+    {
+      "name": "erth",
+      "email": "asdfgh@gmail.com",
+      "contact": "1234567",
+      "address": "sdfgh",
+      "id": 6
+    }
+  ],
+  "products":[
+    {"name":"mobile","price":123,"description":"mobile"}
+  ]
+}
